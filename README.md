@@ -7,7 +7,7 @@
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anoshaahmed/) and [Twitter](https://twitter.com/anosha1ahmed)
 - ⚡ Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/anoshaahmed)!
 
-## Note
+##
 When you want to help me improve my code or point out any mistakes, please **open an issue**, rather than creating a pull request :) Thanks, I appreciate you.
 
 <!--
