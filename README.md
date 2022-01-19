@@ -1,12 +1,12 @@
 ### Hi, I'm Anosha! :) Nice to have you here!
 
 - 🔭 Working on becoming a software engineer
-- 🌱 Currently learning web development
+- 🌱 Currently teaching myself web development
 - 👯 Looking to collaborate on anything!
 - 🤔 Available to help you if you need me :)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anoshaahmed/) and [Twitter](https://twitter.com/anosha1ahmed)
 - 🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/anoshaahmed)!
-- ⚡ Fun fact: I love coding & forensic psychology.
+- ⚡ Fun facts about me: I immigrated to Canada from Pakistan just 8 years ago! I enjoy coding, and watching forensic psychology documentaries.
 
 ##
 When you want to help me improve my code or point out any mistakes, please **open an issue**, rather than creating a pull request :) Thanks, I appreciate you.
