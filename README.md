@@ -9,7 +9,7 @@
 - ⚡ Fun facts about me: I immigrated to Canada from Pakistan just 8 years ago! I enjoy coding, and watching forensic psychology documentaries.
 
 ##
-When you want to help me improve my code or point out any mistakes, please **open an issue**, rather than creating a pull request :) Thanks, I appreciate you.
+Please **open an issue**, rather than creating a pull request :) Thanks, I appreciate you.
 
 <!--
 ### Hi there 👋
