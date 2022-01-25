@@ -3,7 +3,6 @@
 - 🔭 Working on becoming a software engineer
 - 🌱 Currently teaching myself web development
 - 👯 Looking to collaborate on anything!
-- 🤔 Available to help you if you need me :)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anoshaahmed/) and [Twitter](https://twitter.com/anosha1ahmed)
 - 🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/anoshaahmed)!
 - ⚡ Fun facts about me: I immigrated to Canada from Pakistan just 8 years ago! I enjoy coding, and watching forensic psychology documentaries.
