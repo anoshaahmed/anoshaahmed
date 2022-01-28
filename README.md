@@ -5,7 +5,7 @@
 - 👯 Looking to collaborate on anything!
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anoshaahmed/) and [Twitter](https://twitter.com/anosha1ahmed)
 - 🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/anoshaahmed)!
-- ⚡ Fun facts about me: I immigrated to Canada from Pakistan just 8 years ago! I enjoy coding, and watching forensic psychology documentaries.
+- ⚡ Fun fact about me: I immigrated to Canada from Pakistan just 8 years ago!
 ##
 Please **open an issue**, rather than creating a pull request :) Thanks, I appreciate you.
 
