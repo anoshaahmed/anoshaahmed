@@ -6,8 +6,6 @@
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anoshaahmed/) and [Twitter](https://twitter.com/anosha1ahmed)
 - 🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/anoshaahmed)!
 - ⚡ Fun fact about me: I'd spent most of my life in Pakistan
-##
-Please **open an issue**, rather than creating a pull request :) Thanks, I appreciate you.
 
 <!--
 ### Hi there 👋
