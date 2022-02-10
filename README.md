@@ -5,7 +5,7 @@
 - 👯 Looking to collaborate on anything!
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anoshaahmed/) and [Twitter](https://twitter.com/anosha1ahmed)
 - 🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/anoshaahmed)!
-- ⚡ Fun fact about me: I'd spent most of my life in Pakistan 🇵🇰
+- ⚡ Fun fact about me: I'd spent most of my life in Pakistan  🇵🇰
 
 <!--
 ### Hi there 👋
