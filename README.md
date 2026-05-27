@@ -1,3 +1,9 @@
+### Hi, I'm Anosha! :)
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anoshaahmed/) and [X](https://x.com/anosha1ahmed)
+🔍 Check out my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/anoshaahmed)!
+
+<!--
 ### Hi, I'm Anosha! :) Nice to have you here!
 
 - 🔭 Currently learning R
@@ -8,7 +14,7 @@
 - ⚡ Fun fact: In grade 5, I came in 12th place in my country in the international Math Kangaroo Contest.
 ...Also as a kid, i was sent to a quiz tv show by my school and i lost to the question "what does DVD stand for?" I hate that day.
 
-<!--
+
 ### Hi there 👋
 
 
