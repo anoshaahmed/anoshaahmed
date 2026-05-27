@@ -1,7 +1,7 @@
 ### Hi, I'm Anosha! :)
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anoshaahmed/) and [X](https://x.com/anosha1ahmed)
-🔍 Check out my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/anoshaahmed)!
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anoshaahmed/) and [X](https://x.com/anosha1ahmed)
+- 🔍 Check out my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/anoshaahmed)!
 
 <!--
 ### Hi, I'm Anosha! :) Nice to have you here!
